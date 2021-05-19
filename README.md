@@ -25,5 +25,5 @@ This Program Calculate the Temperature at a specific Altitude.
    *Lapse rate is a term that describes the level of temperature drop with increasing altitude. 
    
     
- <img src = "Comparison_International_Standard_Atmosphere_space_diving.JPG">
+ <img src = "Comparison_International_Standard_Atmosphere_space_diving.jpg">
     
